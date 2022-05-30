@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="unisender-api" />
+        <module name="unisender" />
+        <module name="sender" />
+        <module name="user-manager" />
+        <module name="mailservice" />
+        <module name="microservices" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mailservice" target="1.8" />
+      <module name="microservices" target="1.9" />
+      <module name="sender" target="1.9" />
+      <module name="unisender" target="1.9" />
+      <module name="unisender-api" target="1.9" />
+      <module name="user-manager" target="1.9" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

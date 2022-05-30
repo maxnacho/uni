@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/http-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mailservice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microservices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/unisender" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/unisender-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/user-manager" vcs="Git" />
+  </component>
+</project>
